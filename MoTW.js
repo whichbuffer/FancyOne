@@ -1,5 +1,9 @@
+/**
+You also change on this location the value of a variable
+*/
 var oShell = new ActiveXObject("Shell.Application");
 oShell.ShellExecute("C:\\Windows\\system32\\calc.exe","","","open","1");
+
 // SIG // Begin signature block
 // SIG // MIIVnwYJKoZIhvcNAQcCoIIVkDCCFYwCAQExCzAJBgUr
 // SIG // DgMCGgUAMGcGCisGAQQBgjcCAQSgWTBXMDIGCisGAQQB
